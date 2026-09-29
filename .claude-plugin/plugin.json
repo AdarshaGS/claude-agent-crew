@@ -1,0 +1,10 @@
+{
+  "name": "agent-crew",
+  "version": "1.0.0",
+  "description": "Five task-scoped Claude Code subagents, each pinned to the model that fits its job: architect (opus, design), bug-fixer (sonnet, small fixes), code-reviewer (sonnet, diff review), ticket-writer (haiku, tickets/changelogs), explorer (haiku, read-only code mapping).",
+  "author": {
+    "name": "AdarshaGS"
+  },
+  "homepage": "https://github.com/AdarshaGS/claude-agent-crew",
+  "license": "MIT"
+}
